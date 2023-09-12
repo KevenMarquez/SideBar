@@ -1,0 +1,17 @@
+C:\labs\SideBarApp\SideBarWinForm\bin\Debug\net6.0-windows\SideBarWinForm.exe
+C:\labs\SideBarApp\SideBarWinForm\bin\Debug\net6.0-windows\SideBarWinForm.deps.json
+C:\labs\SideBarApp\SideBarWinForm\bin\Debug\net6.0-windows\SideBarWinForm.runtimeconfig.json
+C:\labs\SideBarApp\SideBarWinForm\bin\Debug\net6.0-windows\SideBarWinForm.dll
+C:\labs\SideBarApp\SideBarWinForm\bin\Debug\net6.0-windows\SideBarWinForm.pdb
+C:\labs\SideBarApp\SideBarWinForm\obj\Debug\net6.0-windows\SideBarWinForm.Form1.resources
+C:\labs\SideBarApp\SideBarWinForm\obj\Debug\net6.0-windows\SideBarWinForm.Properties.Resources.resources
+C:\labs\SideBarApp\SideBarWinForm\obj\Debug\net6.0-windows\SideBarWinForm.csproj.GenerateResource.cache
+C:\labs\SideBarApp\SideBarWinForm\obj\Debug\net6.0-windows\SideBarWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\SideBarApp\SideBarWinForm\obj\Debug\net6.0-windows\SideBarWinForm.AssemblyInfoInputs.cache
+C:\labs\SideBarApp\SideBarWinForm\obj\Debug\net6.0-windows\SideBarWinForm.AssemblyInfo.cs
+C:\labs\SideBarApp\SideBarWinForm\obj\Debug\net6.0-windows\SideBarWinForm.csproj.CoreCompileInputs.cache
+C:\labs\SideBarApp\SideBarWinForm\obj\Debug\net6.0-windows\SideBarWinForm.dll
+C:\labs\SideBarApp\SideBarWinForm\obj\Debug\net6.0-windows\refint\SideBarWinForm.dll
+C:\labs\SideBarApp\SideBarWinForm\obj\Debug\net6.0-windows\SideBarWinForm.pdb
+C:\labs\SideBarApp\SideBarWinForm\obj\Debug\net6.0-windows\SideBarWinForm.genruntimeconfig.cache
+C:\labs\SideBarApp\SideBarWinForm\obj\Debug\net6.0-windows\ref\SideBarWinForm.dll
